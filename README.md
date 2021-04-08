@@ -79,32 +79,5 @@ Pull requests
 -------------
 Feel free to contribute to Android-SecretCodes.  
 Either you found a bug or have created a new and awesome feature, just create a pull request.  
-If you want to start to create a new feature or have any other questions regarding Android-SecretCodes, [file an issue](https://github.com/SimonMarquis/Android-SecretCodes/issues/new).
-
-Developed By
-------------
-* [Simon Marquis][1]
-
-License
--------
-
-	Copyright (C) 2016 Simon Marquis (http://www.simon-marquis.fr)
-	
-	Licensed under the Apache License, Version 2.0 (the "License"); you may not
-	use this file except in compliance with the License. You may obtain a copy of
-	the License at
-	
-	http://www.apache.org/licenses/LICENSE-2.0
-	
-	Unless required by applicable law or agreed to in writing, software
-	distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-	WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-	License for the specific language governing permissions and limitations under
-	the License.
-
-
- [1]: http://www.simon-marquis.fr
- 
- [screen1]: Resources/nexus5x-resized.png "List of codes"
- [screen2]: Resources/nexus5x-2-resized.png "List of codes"
+If you want to start to create a t of codes"
  
